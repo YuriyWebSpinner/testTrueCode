@@ -1,0 +1,11 @@
+// Переопределение дефолтных значений переменных Bootstrap 4 и определение своих
+@import "variables";
+
+// Подключение своих SCSS файлов
+@import "normalize";
+@import "nulled";
+@import "fonts";
+@import "jquery-ui.min";
+@import "../../../node_modules/magnific-popup/dist/magnific-popup";
+
+@import "my";
